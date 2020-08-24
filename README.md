@@ -56,7 +56,7 @@ Follows the screen instructions  and enjoy your readme generates.
 
 ## Tests
 
-```npm test```
+```N/A```
 
 ## Contributing
 Contact Me
